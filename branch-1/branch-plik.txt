@@ -1,3 +1,5 @@
 plik w branchu 1
 
 modyfikuję ten plik na branchu 1
+
+modyfikuję ten plik na branchu 1 po utworzenu brancha 2
